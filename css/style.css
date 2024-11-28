@@ -1,3 +1,8 @@
+@font-face {
+	font-family: 'serenity';
+	src:url('../fonts/serenity.otf') format('otf');
+}
+
 /* ----------------------------------------------------------------
 
 01. Default style
@@ -51,20 +56,20 @@
 
 #lineamientos p {
     text-align: justify;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
 }
 
 #lineamientos ul {
     list-style-type: disc; /* Esto pone el punto antes de cada ítem */
     text-align: justify;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
   }
 
@@ -97,7 +102,7 @@
 
 /* Estilos específicos para el bloque con el ID 'dress-code' */
 #outfit h4.section-subtitle {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     display: block;
     color: #1b1b1b;
     font-size: 20px;
@@ -132,7 +137,7 @@ body {
     font-smoothing: antialiased;
 }
 body {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 16px;
     line-height: 1.75em;
     font-weight: 400;
@@ -171,7 +176,7 @@ h6 {
     font-size: 16px;
 }
 p {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 22px;
     line-height: 1.75em;
     margin: 0 0 20px;
@@ -386,7 +391,7 @@ input,
 optgroup,
 select,
 textarea {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
 }
 input[type="password"]:focus,
 input[type="email"]:focus,
@@ -415,7 +420,7 @@ textarea,
     box-shadow: none;
     display: block;
     width: 100%;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -431,7 +436,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"],
 button {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     background: #e7ba74;
     border: 1px solid #e7ba74;
     color: #fff;
@@ -466,7 +471,7 @@ label {
     -moz-appearance: none;
     display: inline-block;
     vertical-align: middle;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 15px;
     font-weight: 400;
     line-height: 1.75em;
@@ -576,7 +581,7 @@ input[type=radio]:checked:before {
     -ms-border-radius: 0;
     border-radius: 0;
     padding: 0;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 18px;
     line-height: 1.75em;
     font-weight: 400;
@@ -590,7 +595,7 @@ input[type=radio]:checked:before {
     border: 1px solid #ececec;
 }
 #message {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     height: 130px;
     padding: 12px;
     border: 1px solid #ececec;
@@ -724,7 +729,7 @@ input[type=radio]:checked:before {
     
 }
 .navbar .navbar-nav .nav-link {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 16px;
     font-weight: 400;
     color: #fff;
@@ -822,7 +827,7 @@ input[type=radio]:checked:before {
 }
 .logo-wrapper .logo span {
     display: block;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 9px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -886,7 +891,7 @@ input[type=radio]:checked:before {
 .dropdown-menu .dropdown-item,
 .sub-menu .dropdown-item {
     padding: 5px 15px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 16px;
     font-weight: 400;
     color: #1b1b1b;
@@ -1004,7 +1009,7 @@ color: #e7ba74;
 .banner-header h5 {
     color: #fff;
     font-size: 14px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-weight: 400;
     margin-bottom: 15px;
     margin-top: 15px;
@@ -1110,7 +1115,7 @@ color: #e7ba74;
 .mary-hero .flexslider .slider-text > .slider-text-inner h6 {
     font-size: 16px;
     color: #fff;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
     font-weight: 400;
     margin: 0;
@@ -1245,7 +1250,7 @@ color: #e7ba74;
 }
 .rsvp h2 {
     color: #1b1b1b;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-weight: normal;
     font-size: 32px;
     margin: 0 auto 10px auto; /* Centra horizontalmente */
@@ -1486,7 +1491,7 @@ color: #e7ba74;
 }
 .story .caption h6 {
     color: #1b1b1b;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 12px;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -1606,7 +1611,7 @@ color: #e7ba74;
     font-weight: bold;
     letter-spacing: 5px;
     text-transform: uppercase;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     margin-bottom: 10px;
 }
 #countdown .section-head p {
@@ -1619,7 +1624,7 @@ color: #e7ba74;
     padding: 0;
 }
 #countdown li {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-weight: 400;
     display: inline-block;
     font-size: 17px;
@@ -1633,7 +1638,7 @@ color: #e7ba74;
 }
 #countdown li span {
       display: block;
-      font-family: 'Serenity', sans-serif;
+      font-family: 'serenity';
     font-size: 70px;
     font-weight: 700;
     color: #1b1b1b;
@@ -1662,7 +1667,7 @@ color: #e7ba74;
 #banner .section-head span {
     display: block;
     position: relative;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-weight: 400;
     font-size: 18px;
     color: #fff;
@@ -1682,7 +1687,7 @@ color: #e7ba74;
     font-weight: 400;
     letter-spacing: 5px;
     text-transform: uppercase;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     margin-bottom: 10px;
 }
 #banner .section-head h1 {
@@ -1691,7 +1696,7 @@ color: #e7ba74;
     font-size: 40px;
     font-weight: 400;
     text-transform: uppercase;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     margin-bottom: 20px;
 }
 #banner .section-head p {
@@ -1723,7 +1728,7 @@ color: #e7ba74;
 .friends .info h6 {
     font-size: 16px;
     margin-bottom: 0px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
     letter-spacing: 3px;
 }
@@ -1779,7 +1784,7 @@ overflow: hidden !important;
     text-transform: uppercase;
     letter-spacing: 5px;
     font-weight: 400;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     margin-bottom: 10px;
 }
 .story-video .video-wrapper .vid {
@@ -1878,7 +1883,7 @@ overflow: hidden !important;
 }
 .events .caption h6 {
     color: #e7ba74;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 12px;
     margin-bottom: 10px;
     text-transform: uppercase;
@@ -1937,13 +1942,13 @@ overflow: hidden !important;
     font-weight: 600;
     color: #e7ba74;
     margin-bottom: 0px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
 }
 .when-where .content .date h6 {
     color: #666;
     letter-spacing: 3px;
     font-size: 12px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
 }
 .when-where .content .cont {
@@ -2023,7 +2028,7 @@ overflow: hidden !important;
     font-size: 12px;
     letter-spacing: 5px;
     color: #e7ba74;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
     margin-bottom: 10px;
 }
@@ -2244,7 +2249,7 @@ overflow: hidden !important;
   z-index: 2;
 }
 .marybrian-blog .content .date h1 {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 70px;
     font-weight: 400;
     color: #e7ba74;
@@ -2254,7 +2259,7 @@ overflow: hidden !important;
     color: #666;
     letter-spacing: 3px;
     font-size: 12px;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
     font-weight: 400;
 	padding-right: 3px;
@@ -2296,7 +2301,7 @@ overflow: hidden !important;
     font-size: 12px;
     letter-spacing: 3px;
     color: #666;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     text-transform: uppercase;
 }
 .marybrian-blog .content .info .tags {
@@ -2599,7 +2604,7 @@ overflow: hidden !important;
     margin-left: 20px;
     letter-spacing: 1px;
     text-transform: uppercase;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
 }
 .blog-repay {
     font-size: 13px;
@@ -2772,9 +2777,10 @@ overflow: hidden !important;
 }
 .gift-registry h2 {
     color: #1b1b1b;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
-    font-family: 'Serenity', sans-serif;
+    font-weight: bold;
+    font-family: 'serenity';
     letter-spacing: 3px;
     text-align: center;
 }
@@ -2790,10 +2796,10 @@ overflow: hidden !important;
 }
 .gift-registry p {
     text-align: center;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
 }
 .gift-registry a {
@@ -2823,10 +2829,10 @@ overflow: hidden !important;
 
 #where p {
     text-align: justify;
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 300;
 }
 
@@ -2930,7 +2936,7 @@ overflow: hidden !important;
     margin-bottom: 10px;
 }
 .top-footer h6 {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     color: #fff;
     margin-bottom: 0;
     text-transform: uppercase;
@@ -2943,7 +2949,7 @@ overflow: hidden !important;
     border-top: 1px solid rgba(255,255,255,0.03);
 }
 .sub-footer p {
-    font-family: 'Serenity', sans-serif;
+    font-family: 'serenity';
     font-size: 14px;
     color: #666;
 }
