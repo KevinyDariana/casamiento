@@ -106,7 +106,7 @@
     font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 300;
     margin-bottom: 10px;
     letter-spacing: 2px;
@@ -115,12 +115,13 @@
 
 #outfit p {
     text-align: justify;
-    font-size: 21px;
+    font-size: 34px;
 }
 
 #outfit a {
     text-decoration: underline;
     color: black;
+    font-size: 28px;
 }
 
 #outfit a:hover {
@@ -1253,7 +1254,7 @@ color: #e7ba74;
     color: #1b1b1b;
     font-family: 'serenity';
     font-weight: normal;
-    font-size: 32px;
+    font-size: 40px;
     margin: 0 auto 10px auto; /* Centra horizontalmente */
     text-align: center; /* Centra el texto */
 }
@@ -2778,8 +2779,8 @@ overflow: hidden !important;
 }
 .gift-registry h2 {
     color: #1b1b1b;
-    font-size: 24px;
-    font-weight: 300;
+    font-size: 34px;
+    font-weight: 400;
     font-weight: bold;
     font-family: 'serenity';
     letter-spacing: 3px;
@@ -2833,7 +2834,7 @@ overflow: hidden !important;
     font-family: 'serenity';
     display: block;
     color: #1b1b1b;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 300;
 }
 
@@ -3178,9 +3179,45 @@ overflow: hidden !important;
     opacity: 1;
 }
 
+.gift-registry p.desktop-text-gift {
+    font-size: 34px;
+}
+
 /*------------------------------------------------------------------- */
 @media screen and (max-width: 768px) {
     .section-subtitle {
+        font-size: 20px;
+    }
+
+    .bride-groom .info p {
+        font-size: 20px;
+    }
+
+    #outfit h4.section-subtitle {
+        font-size: 28px;
+    }
+
+    #outfit a {
+        font-size: 25px;
+    }
+
+    #outfit p {
+        font-size: 20px;
+    }
+    
+    .rsvp h2 {
+        font-size: 22px;
+    }
+
+    #where p {
+        font-size: 20px;
+    }
+
+    .gift-registry h2 {
+        font-size: 20px;
+    }
+
+    .gift-registry p.desktop-text-gift {
         font-size: 20px;
     }
 }
