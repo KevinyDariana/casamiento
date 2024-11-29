@@ -31,6 +31,7 @@
 24. Overlay Effect Bg image
 
 ------------------------------------------------------------------- */
+
 /* =======  Lineamientos Style  ======= */
 #lineamientos {
     position: relative;
@@ -140,7 +141,7 @@ body {
     font-family: 'serenity';
     font-size: 16px;
     line-height: 1.75em;
-    font-weight: 400;
+    font-weight: 300;
     color: #666;
 }
 /* typography */
@@ -151,7 +152,7 @@ h4,
 h5,
 h6 {
     font-family: 'Cinzel Decorative', serif;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1em;
     margin: 0 0 20px 0;
     color: #1b1b1b;
@@ -181,7 +182,7 @@ p {
     line-height: 1.75em;
     margin: 0 0 20px;
     color: #1b1b1b;
-    font-weight: 400;
+    font-weight: 300;
 }
 /* lists */
 ul {
@@ -422,7 +423,7 @@ textarea,
     width: 100%;
     font-family: 'serenity';
     font-size: 15px;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.75em;
     color: #1b1b1b;
     background-image: none;
@@ -442,7 +443,7 @@ button {
     color: #fff;
     padding: 12px 30px;
     margin: 0;
-    font-weight: 400;
+    font-weight: 300;
     position: relative;
     font-size: 14px;
     text-transform: uppercase;
@@ -473,7 +474,7 @@ label {
     vertical-align: middle;
     font-family: 'serenity';
     font-size: 15px;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1.75em;
     margin-bottom: 0;
 }
@@ -584,7 +585,7 @@ input[type=radio]:checked:before {
     font-family: 'serenity';
     font-size: 18px;
     line-height: 1.75em;
-    font-weight: 400;
+    font-weight: 300;
 }
 .form-control:active,
 .form-control:focus {
@@ -731,7 +732,7 @@ input[type=radio]:checked:before {
 .navbar .navbar-nav .nav-link {
     font-family: 'serenity';
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     color: #fff;
     margin: 3px;
     -webkit-transition: all .4s;
@@ -782,7 +783,7 @@ input[type=radio]:checked:before {
 .nav-scroll .logo-wrapper .logo h2 {
     font-family: 'Cinzel', serif;
     font-size: 36px;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 0px;
     display: block;
     width: 100%;
@@ -796,7 +797,7 @@ input[type=radio]:checked:before {
     font-family: 'Cinzel', serif;
     font-size: 9px;
     color: #666;
-    font-weight: 400;
+    font-weight: 300;
     display: block;
     margin-top: 3px;
     line-height: 1.2em;
@@ -813,7 +814,7 @@ input[type=radio]:checked:before {
 .logo-wrapper .logo h2 {
     font-family: 'Cinzel', serif;
     font-size: 36px;
-    font-weight: 400;
+    font-weight: 300;
     display: block;
     width: 100%;
     position: relative;
@@ -832,7 +833,7 @@ input[type=radio]:checked:before {
     text-transform: uppercase;
     letter-spacing: 3px;
     color: #fff;
-    font-weight: 400;
+    font-weight: 300;
     display: block;
     margin-top: 5px;
     line-height: 1.5em;
@@ -893,7 +894,7 @@ input[type=radio]:checked:before {
     padding: 5px 15px;
     font-family: 'serenity';
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     color: #1b1b1b;
     position: relative;
     -webkit-transition: all .4s;
@@ -1010,7 +1011,7 @@ color: #e7ba74;
     color: #fff;
     font-size: 14px;
     font-family: 'serenity';
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 15px;
     margin-top: 15px;
     letter-spacing: 5px;
@@ -1022,7 +1023,7 @@ color: #e7ba74;
 .banner-header h1 {
     font-size: 60px;
     font-family: 'Cinzel', serif;
-    font-weight: 400;
+    font-weight: 300;
     color: #fff;
     position: relative;
     margin-bottom: 0px;
@@ -1105,7 +1106,7 @@ color: #e7ba74;
     font-size: 100px;
     color: #fff;
     font-family: 'Cinzel Decorative', serif;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0;
     line-height: 1.25em;
     text-align: center;
@@ -1117,7 +1118,7 @@ color: #e7ba74;
     color: #fff;
     font-family: 'serenity';
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0;
     letter-spacing: 5px;
     margin-bottom: 10px;
@@ -1152,7 +1153,7 @@ color: #e7ba74;
 .mary-hero .flexslider .slider-text > .slider-text-inner p {
     color: #fff;
     font-size: 30px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     line-height: 1.5em;
     margin-bottom: 0px;
@@ -1230,7 +1231,7 @@ color: #e7ba74;
 .section-title {
     color: #1b1b1b;
     font-family: 'Cinzel', serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 60px;
     margin-bottom: 20px;
 }
@@ -1240,8 +1241,8 @@ color: #e7ba74;
 .section-subtitle {
     display: block;
     color: #1b1b1b;
-    font-size: 35px;
-    font-weight: 400;
+    font-size: 34px;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     font-weight: bold;
     margin-bottom: 10px;
@@ -1365,7 +1366,7 @@ color: #e7ba74;
     color: #1b1b1b;
     font-size: 40px;
     font-weight: bold;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -1377,12 +1378,12 @@ color: #e7ba74;
 .bride-groom .info span {
       color: #e7ba74;
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
 }
 .bride-groom .info p {
     margin-top: 8px;
-    font-size: 18px;
+    font-size: 24px;
     text-align: justify;
 }
 .bride-groom .info .social {
@@ -1597,7 +1598,7 @@ color: #e7ba74;
 }
 #countdown .section-head h2 {
     color: #1b1b1b;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 60px;
     font-family: 'Cinzel', serif;
     margin-bottom: 0px;
@@ -1606,7 +1607,7 @@ color: #e7ba74;
 #countdown .section-head h6 {
     color: #1b1b1b;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     font-weight: bold;
     letter-spacing: 5px;
@@ -1625,7 +1626,7 @@ color: #e7ba74;
 }
 #countdown li {
     font-family: 'serenity';
-    font-weight: 400;
+    font-weight: 300;
     display: inline-block;
     font-size: 17px;
     list-style-type: none;
@@ -1668,14 +1669,14 @@ color: #e7ba74;
     display: block;
     position: relative;
     font-family: 'serenity';
-    font-weight: 400;
+    font-weight: 300;
     font-size: 18px;
     color: #fff;
     margin-bottom: 5px;
 }
 #banner .section-head h2 {
     color: #fff;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 60px;
     margin-bottom: 0px;
     line-height: 1em;
@@ -1684,7 +1685,7 @@ color: #e7ba74;
     margin-bottom: 5px;
     color: #fff;
     font-size: 14px;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 5px;
     text-transform: uppercase;
     font-family: 'serenity';
@@ -1694,7 +1695,7 @@ color: #e7ba74;
     margin-bottom: 5px;
     color: #fff;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 300;
     text-transform: uppercase;
     font-family: 'serenity';
     margin-bottom: 20px;
@@ -1735,7 +1736,7 @@ color: #e7ba74;
 .friends .info span {
     color: #e7ba74;
     font-size: 22px;
-    font-weight: 400;
+    font-weight: 300;
     margin-bottom: 5px;
     font-family: 'Cinzel', serif;
 }
@@ -1775,7 +1776,7 @@ overflow: hidden !important;
 .story-video .video-wrapper .caption .title {
   color: #fff;
   font-family: 'Cinzel', serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 60px;
 }
 .story-video .video-wrapper .caption .subtitle {
@@ -1783,7 +1784,7 @@ overflow: hidden !important;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 5px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'serenity';
     margin-bottom: 10px;
 }
@@ -2131,7 +2132,7 @@ overflow: hidden !important;
 }
 .gallery-box .gallery-detail h4 {
     font-family: 'Cinzel', serif;
-    font-weight: 400;
+    font-weight: 300;
     font-size: 24px;
     color: #fff;
 }
@@ -2251,7 +2252,7 @@ overflow: hidden !important;
 .marybrian-blog .content .date h1 {
     font-family: 'serenity';
     font-size: 70px;
-    font-weight: 400;
+    font-weight: 300;
     color: #e7ba74;
     margin-bottom: 10px;
 }
@@ -2261,7 +2262,7 @@ overflow: hidden !important;
     font-size: 12px;
     font-family: 'serenity';
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 300;
 	padding-right: 3px;
 }
 .marybrian-blog .content .cont {
@@ -2273,12 +2274,12 @@ overflow: hidden !important;
     margin: 15px 0;
     font-size: 45px;
     color: #1b1b1b;
-    font-weight: 400;
+    font-weight: 300;
     line-height: 1em;
 }
 .marybrian-blog .content .cont .more {
   font-size: 14px;
-  font-weight: 400;
+  font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
   color: #666;
@@ -2386,7 +2387,7 @@ overflow: hidden !important;
 .blog .item h5 {
     font-size: 32px;
     line-height: 1.5em;
-    font-weight: 400;
+    font-weight: 300;
     text-transform: uppercase;
     letter-spacing: 2px;
     margin-bottom: 30px;
@@ -2400,7 +2401,7 @@ overflow: hidden !important;
     font-size: 12px;
     text-transform: uppercase;
     color: #AAA;
-    font-weight: 400;
+    font-weight: 300;
 }
 .blog .item .info span:last-child {
     margin: 0;
@@ -2412,7 +2413,7 @@ overflow: hidden !important;
     margin-bottom: 30px;
 }
 .blog .item .more {
-    font-weight: 500;
+    font-weight: 300;
 }
 .blog .item .more:hover i {
     padding-left: 10px;
@@ -2446,7 +2447,7 @@ overflow: hidden !important;
     font-size: 12px;
     text-transform: uppercase;
     color: #e7ba74;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 5px;
 }
 .blog-page .post-cont .tag:hover,
@@ -2600,7 +2601,7 @@ overflow: hidden !important;
 .blog-user-content h3 span {
     font-size: 11px;
     color: #666;
-    font-weight: 400;
+    font-weight: 300;
     margin-left: 20px;
     letter-spacing: 1px;
     text-transform: uppercase;
@@ -2611,7 +2612,7 @@ overflow: hidden !important;
     line-height: 1.75em;
     color: #000 !important;
     margin: 0;
-    font-weight: 400;
+    font-weight: 300;
 }
 /* pagination */
 .blog-pagination-wrap {
@@ -2686,7 +2687,7 @@ overflow: hidden !important;
 }
 .post-list li .text p {
     color: #666;
-    font-weight: 400;
+    font-weight: 300;
     margin: 0;
 }
 
@@ -2778,7 +2779,7 @@ overflow: hidden !important;
 .gift-registry h2 {
     color: #1b1b1b;
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 300;
     font-weight: bold;
     font-family: 'serenity';
     letter-spacing: 3px;
@@ -2787,7 +2788,7 @@ overflow: hidden !important;
 .gift-registry h6 {
     color: #1b1b1b;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     font-weight: bold;
     text-transform: uppercase;
@@ -2840,7 +2841,7 @@ overflow: hidden !important;
     margin: 0 auto 10px auto; /* Centra horizontalmente */
     color: #1b1b1b;
     font-size: 40px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'Cinzel', serif;
     font-weight: bold;
     text-transform: uppercase;
@@ -3093,6 +3094,7 @@ overflow: hidden !important;
 }
 
 
+
 /* =======  Overlay Effect Bg image  ======= */
 [data-overlay-dark],
 [data-overlay-light] {
@@ -3175,3 +3177,11 @@ overflow: hidden !important;
 [data-overlay-light="10"]:before {
     opacity: 1;
 }
+
+/*------------------------------------------------------------------- */
+@media screen and (max-width: 768px) {
+    .section-subtitle {
+        font-size: 20px;
+    }
+}
+/*------------------------------------------------------------------*/
